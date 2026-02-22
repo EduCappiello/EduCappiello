@@ -1,16 +1,50 @@
-## Hi there 👋
+## Hi there 👋  
+I’m **Eduardo Cappiello**
 
-<!--
-**EduCappiello/EduCappiello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Student in Mechanical Engineering @ NTUST  
+🤖 Focused on **Assistive Robotics, Control Systems & State Observers**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on  
+- AI for **Vienna Classification & Image Similarity** (KOICA–DINAPI–UNA Project)  
+- **Disturbance Observers & Force/Torque Estimation**  
+- **Admittance / Compliance Control**  
+- DC Motor Control & Braking Systems  
+
+---
+
+### 🌱 Currently learning  
+- Advanced Observer & Estimation Techniques  
+- AI / Deep Learning for Perception  
+- Improving my Chinese 🇹🇼  
+
+---
+
+### 🛠️ Tech & Tools  
+Python · MATLAB/Simulink · C/C++  
+ROS · Keras / DL · YOLOv8  
+Linux · SQL  
+
+---
+
+### 📚 Research Interests  
+Assistive Robotics  
+State Observers & DOB  
+Compliance / Admittance Control  
+Sensorless Estimation  
+ML for Vision  
+
+---
+
+### ⚡ Background  
+MSc in Mechanical Engineering (NTUST)  
+BSc in Information Engineering  
+BSc in Electromechanical Engineering  
+
+Bridging **Control Engineering ↔ AI ↔ Real Systems**
+
+---
+
+### 📫 Connect with me  
+LinkedIn: https://linkedin.com/in/eduardocappiello

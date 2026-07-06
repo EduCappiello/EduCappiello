@@ -1,48 +1,48 @@
 ## Hi there 👋  
-I’m **Eduardo Cappiello**
-
-🎓 PhD Student in Mechanical Engineering @ NTUST  
-🤖 Focused on **Assistive Robotics, Control Systems & State Observers**
+I'm **Eduardo Cappiello**
+🎓 M.Sc. Mechanical Engineering (NTUST) | Research Assistant @ Academia Sinica  
+🤖 Focused on **Force-Aware Robot Learning, Vision-Language-Action Models & State Observers**
 
 ---
 
 ### 🔭 Currently working on  
-- AI for **Vienna Classification & Image Similarity** (KOICA–DINAPI–UNA Project)  
+- **Haptic Proprioception Interface (HPI)** — software-only contact sensing from motor currents, no force sensors required (submitted to RSS 2026 workshop)  
+- **Vision-Language-Action (VLA) Models** for robot learning @ Academia Sinica  
+- AI for **Vienna Classification & Image Similarity** (KOICA–DINAPI–FP-UNA Project) — Tech Lead  
 - **Disturbance Observers & Force/Torque Estimation**  
-- **Admittance / Compliance Control**  
-- DC Motor Control & Braking Systems  
+- Bridging classical control theory with modern robot learning
 
 ---
 
 ### 🌱 Currently learning  
-- Advanced Observer & Estimation Techniques  
-- AI / Deep Learning for Perception  
-- Improving my Chinese 🇹🇼  
+- Composed Image Retrieval (CIR)  
+- Vision-Language Models for perception & retrieval  
+- Improving my Chinese 🇹🇼
 
 ---
 
 ### 🛠️ Tech & Tools  
 Python · MATLAB/Simulink · C/C++  
-ROS · Keras / DL · YOLOv8  
-Linux · SQL  
+ROS · PyTorch · VLA/VLM frameworks · SigLIP2  
+SO-ARM100 · Linux · SQL
 
 ---
 
 ### 📚 Research Interests  
-Assistive Robotics  
-State Observers & DOB  
-Compliance / Admittance Control  
+Force-Aware Robot Learning  
+Vision-Language-Action Models  
+State Observers & Disturbance Observers  
 Sensorless Estimation  
-ML for Vision  
+Compliance / Admittance Control  
+ML for Vision & Retrieval
 
 ---
 
 ### ⚡ Background  
-MSc in Mechanical Engineering (NTUST)  
-BSc in Information Engineering  
-BSc in Electromechanical Engineering  
-
-Bridging **Control Engineering ↔ AI ↔ Real Systems**
+M.Sc. Mechanical Engineering (NTUST) — GPA 4.0  
+B.Sc. Information Engineering  
+B.Sc. Electromechanical Engineering  
+Bridging **Control Engineering ↔ AI ↔ Real Robotic Systems**
 
 ---
 

@@ -39,9 +39,9 @@ ML for Vision & Retrieval
 ---
 
 ### ⚡ Background  
-M.Sc. Mechanical Engineering (NTUST) — GPA 4.0  
+M.Sc. Mechanical Engineering (NTUST)
 B.Sc. Information Engineering  
-B.Sc. Electromechanical Engineering  
+B.Sc. Electromechanical Engineering 
 Bridging **Control Engineering ↔ AI ↔ Real Robotic Systems**
 
 ---
